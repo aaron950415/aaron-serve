@@ -1,1 +1,11 @@
-{"a":2}
+{
+    "posts": [
+      {
+        "name": "Aaron",
+        "age": "15"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
